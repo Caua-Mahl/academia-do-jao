@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/academia-do-jao/static/css/main.f3b6d170.css",
+    "main.js": "/academia-do-jao/static/js/main.844242b7.js",
+    "static/media/fundo.jpeg": "/academia-do-jao/static/media/fundo.6cb822c3b08be81a49be.jpeg",
+    "static/media/logo.png": "/academia-do-jao/static/media/logo.b1078ea0168d84cdb305.png",
+    "index.html": "/academia-do-jao/index.html",
+    "main.f3b6d170.css.map": "/academia-do-jao/static/css/main.f3b6d170.css.map",
+    "main.844242b7.js.map": "/academia-do-jao/static/js/main.844242b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3b6d170.css",
+    "static/js/main.844242b7.js"
+  ]
+}
