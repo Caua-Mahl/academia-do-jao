@@ -9,8 +9,8 @@ export default function Form() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<LoginForm />} />
-        <Route path="/recuperar" element={<RecuperarForm />} />
+        <Route path="/academia-do-jao" element={<LoginForm/>} />
+        <Route path="/recuperar" element={<RecuperarForm/>} />
       </Routes>
     </Router>
   );
@@ -50,7 +50,7 @@ function RecuperarForm() {
       <input type="email" id="email" name="email" placeholder="Digite seu email" />
       <input type="submit" className="Recuperar" value="Enviar email de recuperação" />
       <div className="container-auxi">
-        <Link className="Voltar" to="/">Voltar para o login</Link>
+        <Link className="Voltar" to="/academia-do-jao">Voltar para o login</Link>
       </div>
     </form>
   );
